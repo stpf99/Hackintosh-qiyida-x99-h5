@@ -1,4 +1,4 @@
-//? 1st try only Fastboot eneabled
+//? 1st try only Fastboot enabled
 
                                                                   and if installer is not started then try also:
 
