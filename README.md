@@ -1,6 +1,6 @@
 //? 1st try only Fastboot enabled
 
-                                                                  and if installer is not started then try also:
+nd if installer is not started then try also:
 
 
 SATA Mode	AHCI
